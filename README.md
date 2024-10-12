@@ -81,8 +81,3 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 📝 Licença
 
 Este projeto está sob a licença [MIT](./LICENSE).
-
----
-
-<!--Bottom session-->
-<h4 align=center>Desenvolvido por Joyce Querubino <a href="https://www.linkedin.com/in/joyce-querubino/"> <strong>Entre em contato</strong> :)</a></a></h4>
